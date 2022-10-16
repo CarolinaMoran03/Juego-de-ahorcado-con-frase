@@ -4,7 +4,7 @@ print(participante.upper())
 def run():
     frases = ["Vive tu momento",
               "Nunca subestimes el poder de la musica",
-              "Nunca olvides lo mucho que te ame tu familia", "Amo mi locura", "Que nadie te diga que no","Carlos Rivera", "No me ponga cero inge", "La fuerza estara contigo"]
+              "Nunca olvides lo mucho que te ama tu familia", "Amo mi locura", "Que nadie te diga que no","Carlos Rivera", "No me ponga cero inge", "La fuerza estara contigo"]
     cantidad = len(frases)
     numero = 0
 
